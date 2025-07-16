@@ -1,0 +1,12 @@
+.container{
+    padding-top: 30px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .top_footer {
+        height: 130vh;
+    }
+}
+
